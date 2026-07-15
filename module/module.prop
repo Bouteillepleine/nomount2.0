@@ -1,0 +1,8 @@
+id=meta-nomount
+name=NoMount
+version=v2.1.0
+versionCode=21000
+author=Bouteillepleine
+description=NoMount metamodule — mountless module loading via /dev/nomount VFS redirection. 🫥
+metamodule=1
+updateJson=https://raw.githubusercontent.com/Bouteillepleine/nomount/main/update.json
