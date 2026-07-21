@@ -102,7 +102,7 @@ A self-contained dashboard (root manager → NoMount → ⚙️): engine status 
 
 | Android | Kernel | Root | Status |
 | :--- | :--- | :--- | :--- |
-| 16 | 6.12 | SukiSU-Ultra | ✅ Tested end-to-end (VFS + overlay + hiding) on OnePlus 15 |
+| 16 | 6.12 | ReSukiSU | ✅ Tested end-to-end (VFS + overlay + hiding) on OnePlus 15 |
 | 12–15 | 5.10 / 5.15 / 6.1 / 6.6 | KernelSU / SukiSU | 🧩 Patches provided, not device-tested |
 
 APatch metamodule hooks exist but are unverified. Tested another combo? Open an issue.
